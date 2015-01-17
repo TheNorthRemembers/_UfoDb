@@ -1,4 +1,0 @@
-C:\Users\mbondi\Documents\UfoDataCenter\UfoDB\bin\Debug\UfoDB.dll
-C:\Users\mbondi\Documents\UfoDataCenter\UfoDB\bin\Debug\UfoDB.pdb
-C:\Users\mbondi\Documents\UfoDataCenter\UfoDB\obj\Debug\UfoDB.dll
-C:\Users\mbondi\Documents\UfoDataCenter\UfoDB\obj\Debug\UfoDB.pdb
